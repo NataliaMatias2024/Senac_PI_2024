@@ -1,35 +1,39 @@
 # Projeto Integrador - Prototipação e UML
+### Modelagem de Sistema para Gestão de Dados de Uma Universidade
 
-## Requisitos: 
+## Prototipação e Requisitos
 
-*Cadastro de Pessoas:*
--Pessoa Física (CPF e RG)
--Pessoa Jurídica (CNPJ e razão social)
+### 1. Atores envolvidos:
+- **Pessoa Física:** Alunos e professores, precisam ser cadastrados para acessar os recursos acadêmicos e administrativos.
+- **Pessoa Jurídica:** Empresas ou instituições, como fornecedores, que precisam ser cadastradas para fornecer serviços ou produtos à universidade.
 
-*Cadastro Alunos:*
--Cód. matricula
--Curso
--Data de matrícula
--Status da matrícula
+\- [Inserir tela dos Atores envolvidos]
+---
+### 2. Cenários contemplados no diagrama de caso de uso:
 
-*Cadastro Professor:*
--Data admissão
--Curso Ministrado
+1.  Cadastro de Professores:
+\- [Inserir tela de Cadastro de Professores]
 
-*Cadastro de Fornecedores:*
--Produtos fornecidos
--Status do fornecedor (ativo/inativo)
+2.  Cadastro de Alunos:
+\- [Inserir tela de Cadastro do Aluno]
 
-*Operações CRUD:*
--Criar novos registros
--Atualização de registros existentes
--Remoção de registros
--Busca de registros específicos
+2. Cadastro de Fornecedores:  
+a)  Cadastro de Pessoa Física (CPF)
+b) Cadastro de Pessoa Jurídica (CNPJ)
+\- [Inserir tela de  Cadastro de Pessoa Juridica (PJ)]
+---
 
-##Prototipação
+### 3 Diagrama de Caso de Uso:
+\- [Inserir tela do diagrama de caso de uso]
+---
 
-                Imagens quando estiver pronto
+## 4. Diagrama de Classes UML
+O diagrama de classes foi montado com os comportamentos de herança e associação das seis classes criadas e segue conforme Figura 1 abaixo.
 
-## Casos de uso UML
+**Figura 1:** Diagrama de Classes UML  
+\- [Inserir figura do diagrama de classes UML]
+---
 
-               Imagens da primeira parte da entrega
+## 5. Conclusão
+
+Este trabalho apresentou a modelagem de um sistema para o gerenciamento de dados da Universidade SENAC, utilizando diagramas de caso de uso e de classes. O sistema permite o cadastro de diferentes tipos de pessoas e entidades, abordando as funcionalidades necessárias para o bom funcionamento do processo de gestão acadêmica e administrativa da universidade.
