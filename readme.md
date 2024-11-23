@@ -1,26 +1,26 @@
 # Projeto Integrador - Prototipação e UML
 ### Modelagem de Sistema para Gestão de Dados de Uma Universidade
-
+---
 ## Prototipação e Requisitos
 
 ### 1. Atores envolvidos:
 - **Pessoa Física:** Alunos e professores, precisam ser cadastrados para acessar os recursos acadêmicos e administrativos.
 - **Pessoa Jurídica:** Empresas ou instituições, como fornecedores, que precisam ser cadastradas para fornecer serviços ou produtos à universidade.
 
-- ![Tela dos Atores envolvidos](Prototipagem/adicionar_novo.png)
+![Tela dos Atores envolvidos](Prototipagem/adicionar_novo.png)
 ---
 ### 2. Cenários contemplados no diagrama de caso de uso:
 
 1.  Cadastro de Professores:
-\- [Inserir tela de Cadastro de Professores]
+![Tela de Cadastro de Professores](Prototipagem/cadastro_professor.png)
 
 2.  Cadastro de Alunos:
-\- [Inserir tela de Cadastro do Aluno]
+![Tela de Cadastro de Alunos](Prototipagem/cadastro_aluno.png)
 
 2. Cadastro de Fornecedores:  
-a)  Cadastro de Pessoa Física (CPF)
+a)  Cadastro de Pessoa Física (CPF) <br>
 b) Cadastro de Pessoa Jurídica (CNPJ)
-\- [Inserir tela de  Cadastro de Pessoa Juridica (PJ)]
+![Tela de Cadastro de Fornecedores](Prototipagem/cadastro_fornec.png)
 ---
 
 ### 3 Diagrama de Caso de Uso:
