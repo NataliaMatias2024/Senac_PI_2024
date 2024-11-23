@@ -7,7 +7,7 @@
 - **Pessoa Física:** Alunos e professores, precisam ser cadastrados para acessar os recursos acadêmicos e administrativos.
 - **Pessoa Jurídica:** Empresas ou instituições, como fornecedores, que precisam ser cadastradas para fornecer serviços ou produtos à universidade.
 
-\- [[Tela dos Atores envolvidos](https://github.com/NataliaMatias2024/Senac_PI_2024/blob/main/Prototipagem/adicionar_novo.png)]
+\- [[Tela dos Atores envolvidos](Prototipagem/adicionar_novo.png)]
 ---
 ### 2. Cenários contemplados no diagrama de caso de uso:
 
